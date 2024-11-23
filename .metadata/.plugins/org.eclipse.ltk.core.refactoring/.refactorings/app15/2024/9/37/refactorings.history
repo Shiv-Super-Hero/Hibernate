@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;app15/src/com/shivaji/resources/oracle_config.cfg.xml&apos; to &apos;hibernate_oracle_cfg.xml&apos;" description="Rename resource &apos;oracle_config.cfg.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/shivaji/resources/oracle_config.cfg.xml" name="hibernate_oracle_cfg.xml" stamp="1725769049664" updateReferences="true"/>
+</session>
